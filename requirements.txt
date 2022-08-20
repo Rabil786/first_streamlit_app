@@ -1,2 +1,2 @@
-pyarrow
+pyarrow<8.1.0
 snowflake-connector-python
